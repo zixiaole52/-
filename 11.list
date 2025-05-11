@@ -60,14 +60,7 @@ DOMAIN,www.96110.com,REJECT
 DOMAIN-SUFFIX,v1.mk,香港时延优选
 DOMAIN,pan.v1.mk,香港时延优选
 DOMAIN,pan.v1.mk,DIRECT
-DOMAIN-SUFFIX,feiyangdigital.tg.ystenlive.ottdns.com,DIRECT
-DOMAIN-SUFFIX,feiyangdigital.tg.bestlive.ottdns.com,DIRECT
-DOMAIN-SUFFIX,feiyangdigital.tg.wasulive.ottdns.com,DIRECT
-DOMAIN-SUFFIX,feiyangdigital.tg.fifalive.ottdns.com,DIRECT
-DOMAIN-SUFFIX,feiyangdigital.tg.hnbblive.ottdns.com,DIRECT
-DOMAIN-SUFFIX,feiyangdigital.tg.zqhswlive.ottdns.com,DIRECT
 DOMAIN,*.ottdns.com,DIRECT
-DOMAIN,www.96110.com,REJECT
 DOMAIN,music.iuii.org,香港时延优选
 DOMAIN,music.awatv.de,DIRECT
 DOMAIN,music.iuii.org,香港时延优选
